@@ -1,0 +1,84 @@
+
+h2 {
+	text-align: center;
+	font-family: Courier;
+}
+
+h3 {
+	text-align: center;
+	font-family: Courier;
+}
+
+div {
+	position: relative;
+	display: inline-block;
+	margin-left: 470px;
+	height: 150px;
+	width: 150px;
+	border-radius: 100%;
+	border: 2px solid black;
+	margin-top: 10px;
+}
+
+#blue_ring {
+	border: 4px solid blue;
+}
+
+#black_ring {
+	margin-left: -25px;
+	border:4px solid black;
+}
+
+#red_ring {
+	margin-left: -25px;
+	border:4px solid red;
+}
+
+#yellow_ring {
+	display: inline-block;
+	border: 4px solid yellow;
+	margin-left: 530px;
+	margin-top: -70px;
+}
+
+#green_ring {
+	display: inline-block;
+	border: 4px solid green;
+	margin-left: 5px;
+	margin-top: -70px;
+}
+
+p div {
+	text-align: center;
+	margin:auto;
+}
+
+.button {
+	color: black;
+	font-family: Calibri;
+	font-weight: bold;
+	text-align: center;
+	background-color: aqua;
+	position: relative;
+	display: inline-block;
+	clear: both;
+	height: 50px;
+	width: 100px;
+	border-radius: 5%;
+	border: 3px solid black;
+	margin-top: 30px;
+	margin-left: 630px;
+}
+
+.button:hover {
+	background-color: #e67300;
+	text-decoration: none;
+}
+
+.button:visited {
+	text-decoration: none;
+}
+
+.button:link {
+	text-decoration: none;
+}
